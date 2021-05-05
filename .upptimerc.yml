@@ -20,12 +20,12 @@ status-website:
   introTitle: "Current Status of the Systems"
   introMessage: See if something is affected.
   navbar:
-      - title: Status
-        href: /
-      - title: Twitter
-        href: https://twitter.com/CMiksche
-      - title: Imprint
-        href: http://blog.m5e.de/contact/
+     - title: Status
+       href: /
+     - title: Twitter
+       href: https://twitter.com/CMiksche
+     - title: Imprint
+       href: http://blog.m5e.de/contact/
         
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
