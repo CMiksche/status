@@ -23,13 +23,13 @@
     "icon": "https://favicons.githubusercontent.com/christoph.miksche.org",
     "slug": "german-blog",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "96.48%",
+    "uptime": "99.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 1199,
-    "timeDay": 596,
+    "timeDay": 692,
     "timeWeek": 1853,
     "timeMonth": 1199,
     "timeYear": 1199,
@@ -43,9 +43,9 @@
     "url": "https://kb.m5e.de",
     "icon": "https://favicons.githubusercontent.com/kb.m5e.de",
     "slug": "kanboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 907,
     "timeMonth": 855,
     "timeYear": 855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-24": 0
+    }
   }
 ]
