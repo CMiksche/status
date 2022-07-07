@@ -50,18 +50,19 @@
     "url": "$KANBOARD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "kanboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.39%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.87%",
     "time": 1469,
     "timeDay": 1501,
-    "timeWeek": 974,
+    "timeWeek": 1042,
     "timeMonth": 1278,
     "timeYear": 1560,
     "dailyMinutesDown": {
+      "2022-07-07": 2,
       "2022-07-01": 25,
       "2022-06-30": 146,
       "2022-06-29": 21,
@@ -93,9 +94,9 @@
     "url": "$GROCY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "grocy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -104,6 +105,8 @@
     "timeWeek": 1526,
     "timeMonth": 1526,
     "timeYear": 1526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-07": 0
+    }
   }
 ]
