@@ -94,18 +94,19 @@
     "url": "$GROCY",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "grocy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "84.85%",
-    "uptimeWeek": "97.84%",
+    "uptimeDay": "89.74%",
+    "uptimeWeek": "97.83%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.21%",
     "time": 2556,
-    "timeDay": 5020,
+    "timeDay": 5070,
     "timeWeek": 3475,
     "timeMonth": 2556,
     "timeYear": 2556,
     "dailyMinutesDown": {
+      "2022-07-25": 0,
       "2022-07-24": 218,
       "2022-07-07": 25
     }
