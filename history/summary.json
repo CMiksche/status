@@ -4,19 +4,19 @@
     "url": "https://blog.m5e.de",
     "icon": "https://favicons.githubusercontent.com/blog.m5e.de",
     "slug": "english-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 252,
-    "timeWeek": 216,
-    "timeMonth": 196,
+    "timeDay": 265,
+    "timeWeek": 224,
+    "timeMonth": 199,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 18
     }
   },
   {
