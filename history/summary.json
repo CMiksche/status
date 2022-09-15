@@ -4,9 +4,9 @@
     "url": "https://blog.m5e.de",
     "icon": "https://favicons.githubusercontent.com/blog.m5e.de",
     "slug": "english-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 216,
     "timeMonth": 196,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "German Blog",
