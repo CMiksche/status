@@ -64,9 +64,9 @@
     "url": "https://webpage4.me",
     "icon": "https://icons.duckduckgo.com/ip3/webpage4.me.ico",
     "slug": "web-page4-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 755,
     "timeMonth": 766,
     "timeYear": 766,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-20": 0
+    }
   },
   {
     "name": "Kanboard",
