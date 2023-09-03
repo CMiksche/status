@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 145,
-    "timeWeek": 183,
-    "timeMonth": 212,
+    "time": 217,
+    "timeDay": 289,
+    "timeWeek": 190,
+    "timeMonth": 213,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2022-09-15": 18
@@ -30,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 521,
-    "timeDay": 523,
-    "timeWeek": 624,
-    "timeMonth": 604,
+    "time": 522,
+    "timeDay": 748,
+    "timeWeek": 613,
+    "timeMonth": 607,
     "timeYear": 525,
-    "dailyMinutesDown": {
-      "2022-09-03": 86
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "German Tech Blog",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 457,
-    "timeDay": 450,
-    "timeWeek": 536,
-    "timeMonth": 496,
+    "timeDay": 580,
+    "timeWeek": 546,
+    "timeMonth": 498,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2023-05-27": 19
@@ -71,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 733,
-    "timeDay": 566,
-    "timeWeek": 714,
+    "timeDay": 629,
+    "timeWeek": 682,
     "timeMonth": 735,
     "timeYear": 733,
     "dailyMinutesDown": {}
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1073,
-    "timeDay": 1010,
-    "timeWeek": 1238,
-    "timeMonth": 1586,
-    "timeYear": 1075,
+    "time": 1074,
+    "timeDay": 1234,
+    "timeWeek": 1165,
+    "timeMonth": 1598,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2023-03-24": 58,
       "2022-10-26": 49
@@ -109,10 +107,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1585,
-    "timeDay": 1385,
-    "timeWeek": 1817,
-    "timeMonth": 1587,
+    "time": 1584,
+    "timeDay": 1442,
+    "timeWeek": 1804,
+    "timeMonth": 1592,
     "timeYear": 1491,
     "dailyMinutesDown": {
       "2023-05-10": 17,
