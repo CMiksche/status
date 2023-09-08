@@ -62,9 +62,9 @@
     "url": "https://webpage4.me",
     "icon": "https://icons.duckduckgo.com/ip3/webpage4.me.ico",
     "slug": "web-page4-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -74,6 +74,7 @@
     "timeMonth": 712,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2023-09-08": 0,
       "2023-09-06": 16
     }
   },
@@ -91,7 +92,7 @@
     "time": 1073,
     "timeDay": 979,
     "timeWeek": 1071,
-    "timeMonth": 1591,
+    "timeMonth": 1561,
     "timeYear": 1074,
     "dailyMinutesDown": {
       "2023-03-24": 58,
@@ -112,7 +113,7 @@
     "time": 1584,
     "timeDay": 1761,
     "timeWeek": 1496,
-    "timeMonth": 1603,
+    "timeMonth": 1560,
     "timeYear": 1492,
     "dailyMinutesDown": {
       "2023-05-10": 17,
