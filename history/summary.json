@@ -86,9 +86,9 @@
     "slug": "kanboard",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1099,
     "timeDay": 704,
@@ -96,7 +96,6 @@
     "timeMonth": 1012,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2023-11-01": 10,
       "2023-03-24": 58
     }
   },
@@ -107,9 +106,9 @@
     "slug": "grocy",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1509,
     "timeDay": 999,
@@ -117,7 +116,6 @@
     "timeMonth": 1437,
     "timeYear": 1486,
     "dailyMinutesDown": {
-      "2023-11-01": 10,
       "2023-05-10": 17,
       "2023-03-24": 58,
       "2022-12-09": 18
