@@ -24,19 +24,19 @@
     "url": "https://christoph.miksche.org",
     "icon": "https://icons.duckduckgo.com/ip3/christoph.miksche.org.ico",
     "slug": "german-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 605,
-    "timeWeek": 499,
-    "timeMonth": 548,
+    "timeDay": 592,
+    "timeWeek": 509,
+    "timeMonth": 549,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-01-26": 0
+      "2024-01-26": 15
     }
   },
   {
