@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 203,
-    "timeWeek": 182,
-    "timeMonth": 199,
+    "timeDay": 165,
+    "timeWeek": 184,
+    "timeMonth": 194,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2023-10-03": 21
@@ -26,18 +26,16 @@
     "slug": "german-blog",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 592,
-    "timeWeek": 509,
-    "timeMonth": 549,
-    "timeYear": 546,
-    "dailyMinutesDown": {
-      "2024-01-26": 15
-    }
+    "time": 535,
+    "timeDay": 423,
+    "timeWeek": 485,
+    "timeMonth": 539,
+    "timeYear": 545,
+    "dailyMinutesDown": {}
   },
   {
     "name": "German Tech Blog",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 477,
-    "timeDay": 399,
-    "timeWeek": 378,
-    "timeMonth": 440,
+    "timeDay": 492,
+    "timeWeek": 404,
+    "timeMonth": 442,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2023-05-27": 19
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 733,
-    "timeDay": 791,
-    "timeWeek": 798,
-    "timeMonth": 780,
+    "timeDay": 655,
+    "timeWeek": 800,
+    "timeMonth": 770,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2023-12-26": 172,
@@ -95,10 +93,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 1062,
-    "timeDay": 817,
-    "timeWeek": 1051,
-    "timeMonth": 1015,
-    "timeYear": 1099,
+    "timeDay": 865,
+    "timeWeek": 1050,
+    "timeMonth": 998,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2024-01-01": 25,
       "2023-03-24": 58
@@ -116,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1490,
-    "timeDay": 1335,
-    "timeWeek": 1533,
-    "timeMonth": 1540,
-    "timeYear": 1497,
+    "timeDay": 1234,
+    "timeWeek": 1509,
+    "timeMonth": 1530,
+    "timeYear": 1496,
     "dailyMinutesDown": {
       "2023-05-10": 17,
       "2023-03-24": 58
