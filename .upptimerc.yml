@@ -9,8 +9,6 @@ sites:
     url: https://christoph.miksche.org
   - name: German Tech Blog
     url: https://blog.wronnay.net
-  - name: WebPage4.Me
-    url: https://webpage4.me
   - name: Kanboard
     url: $KANBOARD
   - name: Grocy
