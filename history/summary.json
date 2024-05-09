@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 124,
-    "timeWeek": 163,
+    "timeDay": 158,
+    "timeWeek": 161,
     "timeMonth": 199,
     "timeYear": 212,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 532,
-    "timeDay": 486,
-    "timeWeek": 509,
-    "timeMonth": 505,
+    "timeDay": 594,
+    "timeWeek": 529,
+    "timeMonth": 510,
     "timeYear": 545,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 211,
-    "timeWeek": 417,
-    "timeMonth": 430,
+    "time": 463,
+    "timeDay": 569,
+    "timeWeek": 413,
+    "timeMonth": 439,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2023-05-27": 19
@@ -64,14 +64,14 @@
     "slug": "kanboard",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "57.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "83.42%",
     "uptimeMonth": "94.04%",
     "uptimeYear": "99.48%",
     "time": 1187,
-    "timeDay": 1863,
-    "timeWeek": 1930,
-    "timeMonth": 1822,
+    "timeDay": 971,
+    "timeWeek": 1936,
+    "timeMonth": 1825,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2024-05-07": 658,
@@ -92,13 +92,13 @@
     "slug": "grocy",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "58.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "84.23%",
     "uptimeMonth": "94.32%",
     "uptimeYear": "99.51%",
     "time": 1596,
-    "timeDay": 2389,
-    "timeWeek": 2137,
+    "timeDay": 1265,
+    "timeWeek": 2133,
     "timeMonth": 2080,
     "timeYear": 1625,
     "dailyMinutesDown": {
@@ -110,8 +110,7 @@
       "2024-04-24": 496,
       "2024-04-04": 26,
       "2024-02-15": 20,
-      "2024-01-31": 50,
-      "2023-05-10": 17
+      "2024-01-31": 50
     }
   }
 ]
