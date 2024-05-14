@@ -1,7 +1,7 @@
 url: $KANBOARD
-status: down
-code: 530
-responseTime: 3159
-lastUpdated: 2024-05-14T03:08:56.658Z
+status: up
+code: 200
+responseTime: 1004
+lastUpdated: 2024-05-14T07:37:38.727Z
 startTime: 2021-05-05T17:15:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
