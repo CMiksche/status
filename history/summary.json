@@ -24,9 +24,9 @@
     "url": "https://christoph.miksche.org",
     "icon": "https://icons.duckduckgo.com/ip3/christoph.miksche.org.ico",
     "slug": "german-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 522,
     "timeMonth": 502,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-22": 0
+    }
   },
   {
     "name": "German Tech Blog",
@@ -65,12 +67,12 @@
     "status": "up",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.05%",
+    "uptimeWeek": "90.09%",
     "uptimeMonth": "85.97%",
     "uptimeYear": "98.81%",
     "time": 1302,
     "timeDay": 1542,
-    "timeWeek": 2231,
+    "timeWeek": 2190,
     "timeMonth": 2087,
     "timeYear": 1390,
     "dailyMinutesDown": {
@@ -100,7 +102,7 @@
     "status": "up",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.67%",
+    "uptimeWeek": "90.39%",
     "uptimeMonth": "86.04%",
     "uptimeYear": "98.82%",
     "time": 1644,
