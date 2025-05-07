@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 194,
-    "timeWeek": 308,
-    "timeMonth": 243,
+    "timeDay": 238,
+    "timeWeek": 298,
+    "timeMonth": 246,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
-    "timeDay": 503,
-    "timeWeek": 620,
-    "timeMonth": 580,
+    "timeDay": 628,
+    "timeWeek": 623,
+    "timeMonth": 585,
     "timeYear": 561,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 449,
-    "timeDay": 549,
-    "timeWeek": 485,
-    "timeMonth": 445,
+    "timeDay": 467,
+    "timeWeek": 474,
+    "timeMonth": 448,
     "timeYear": 459,
     "dailyMinutesDown": {}
   },
@@ -63,12 +63,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.05%",
-    "time": 1362,
-    "timeDay": 837,
-    "timeWeek": 1138,
-    "timeMonth": 1072,
-    "timeYear": 1312,
+    "uptimeYear": "99.16%",
+    "time": 1361,
+    "timeDay": 872,
+    "timeWeek": 1116,
+    "timeMonth": 1074,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2025-04-23": 30,
       "2025-04-04": 22,
@@ -88,8 +88,7 @@
       "2024-05-16": 172,
       "2024-05-15": 545,
       "2024-05-14": 1362,
-      "2024-05-13": 1015,
-      "2024-05-07": 658
+      "2024-05-13": 1015
     }
   },
   {
@@ -102,12 +101,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.16%",
     "time": 1667,
-    "timeDay": 1574,
-    "timeWeek": 1839,
-    "timeMonth": 1652,
-    "timeYear": 1617,
+    "timeDay": 1461,
+    "timeWeek": 1771,
+    "timeMonth": 1655,
+    "timeYear": 1605,
     "dailyMinutesDown": {
       "2025-04-23": 29,
       "2025-03-13": 22,
@@ -122,8 +121,7 @@
       "2024-05-16": 184,
       "2024-05-15": 592,
       "2024-05-14": 1406,
-      "2024-05-13": 1022,
-      "2024-05-07": 635
+      "2024-05-13": 1022
     }
   }
 ]
