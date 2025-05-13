@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 353,
-    "timeWeek": 248,
-    "timeMonth": 247,
+    "time": 231,
+    "timeDay": 238,
+    "timeWeek": 254,
+    "timeMonth": 249,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 624,
-    "timeWeek": 627,
-    "timeMonth": 594,
+    "timeDay": 367,
+    "timeWeek": 607,
+    "timeMonth": 591,
     "timeYear": 563,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 449,
-    "timeDay": 321,
-    "timeWeek": 465,
-    "timeMonth": 449,
-    "timeYear": 459,
+    "timeDay": 368,
+    "timeWeek": 439,
+    "timeMonth": 444,
+    "timeYear": 458,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +65,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.27%",
     "time": 1359,
-    "timeDay": 1933,
-    "timeWeek": 1138,
-    "timeMonth": 1116,
+    "timeDay": 825,
+    "timeWeek": 1137,
+    "timeMonth": 1113,
     "timeYear": 1296,
     "dailyMinutesDown": {
       "2025-04-23": 30,
@@ -87,8 +87,7 @@
       "2024-05-17": 160,
       "2024-05-16": 172,
       "2024-05-15": 545,
-      "2024-05-14": 1362,
-      "2024-05-13": 1015
+      "2024-05-14": 1362
     }
   },
   {
@@ -98,15 +97,15 @@
     "slug": "grocy",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "97.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.26%",
     "time": 1672,
-    "timeDay": 1678,
-    "timeWeek": 1670,
-    "timeMonth": 1684,
-    "timeYear": 1591,
+    "timeDay": 1385,
+    "timeWeek": 1646,
+    "timeMonth": 1682,
+    "timeYear": 1588,
     "dailyMinutesDown": {
       "2025-05-11": 32,
       "2025-04-23": 29,
@@ -121,8 +120,7 @@
       "2024-05-17": 169,
       "2024-05-16": 184,
       "2024-05-15": 592,
-      "2024-05-14": 1406,
-      "2024-05-13": 1022
+      "2024-05-14": 1406
     }
   }
 ]
