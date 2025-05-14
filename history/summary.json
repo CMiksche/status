@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 238,
-    "timeWeek": 254,
-    "timeMonth": 249,
+    "timeDay": 220,
+    "timeWeek": 252,
+    "timeMonth": 251,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 367,
-    "timeWeek": 607,
-    "timeMonth": 591,
+    "timeDay": 542,
+    "timeWeek": 595,
+    "timeMonth": 597,
     "timeYear": 563,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 449,
-    "timeDay": 368,
-    "timeWeek": 439,
-    "timeMonth": 444,
-    "timeYear": 458,
+    "timeDay": 381,
+    "timeWeek": 426,
+    "timeMonth": 445,
+    "timeYear": 459,
     "dailyMinutesDown": {}
   },
   {
@@ -63,12 +63,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.48%",
     "time": 1359,
-    "timeDay": 825,
-    "timeWeek": 1137,
-    "timeMonth": 1113,
-    "timeYear": 1296,
+    "timeDay": 882,
+    "timeWeek": 1138,
+    "timeMonth": 1114,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2025-04-23": 30,
       "2025-04-04": 22,
@@ -86,8 +86,7 @@
       "2024-05-18": 244,
       "2024-05-17": 160,
       "2024-05-16": 172,
-      "2024-05-15": 545,
-      "2024-05-14": 1362
+      "2024-05-15": 545
     }
   },
   {
@@ -100,12 +99,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.26%",
-    "time": 1672,
-    "timeDay": 1385,
-    "timeWeek": 1646,
-    "timeMonth": 1682,
-    "timeYear": 1588,
+    "uptimeYear": "99.47%",
+    "time": 1671,
+    "timeDay": 1327,
+    "timeWeek": 1630,
+    "timeMonth": 1675,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2025-05-11": 32,
       "2025-04-23": 29,
@@ -119,8 +118,7 @@
       "2024-05-18": 253,
       "2024-05-17": 169,
       "2024-05-16": 184,
-      "2024-05-15": 592,
-      "2024-05-14": 1406
+      "2024-05-15": 592
     }
   }
 ]
