@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 631,
-    "timeWeek": 309,
-    "timeMonth": 263,
-    "timeYear": 235,
+    "timeDay": 274,
+    "timeWeek": 292,
+    "timeMonth": 262,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 558,
-    "timeWeek": 528,
-    "timeMonth": 594,
+    "timeDay": 581,
+    "timeWeek": 525,
+    "timeMonth": 589,
     "timeYear": 563,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 449,
-    "timeDay": 500,
-    "timeWeek": 400,
-    "timeMonth": 447,
-    "timeYear": 459,
+    "timeDay": 565,
+    "timeWeek": 410,
+    "timeMonth": 449,
+    "timeYear": 460,
     "dailyMinutesDown": {}
   },
   {
@@ -63,12 +63,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.83%",
     "time": 1358,
-    "timeDay": 1394,
-    "timeWeek": 1198,
-    "timeMonth": 1122,
-    "timeYear": 1243,
+    "timeDay": 1191,
+    "timeWeek": 1181,
+    "timeMonth": 1112,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2025-04-23": 30,
       "2025-04-04": 22,
@@ -84,8 +84,7 @@
       "2024-07-01": 16,
       "2024-05-19": 37,
       "2024-05-18": 244,
-      "2024-05-17": 160,
-      "2024-05-16": 172
+      "2024-05-17": 160
     }
   },
   {
@@ -94,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.84%",
     "time": 1672,
-    "timeDay": 1917,
-    "timeWeek": 1620,
-    "timeMonth": 1681,
-    "timeYear": 1549,
+    "timeDay": 1792,
+    "timeWeek": 1598,
+    "timeMonth": 1680,
+    "timeYear": 1547,
     "dailyMinutesDown": {
       "2025-05-11": 32,
       "2025-04-23": 29,
@@ -115,8 +114,7 @@
       "2024-11-23": 30,
       "2024-07-01": 16,
       "2024-05-18": 253,
-      "2024-05-17": 169,
-      "2024-05-16": 184
+      "2024-05-17": 169
     }
   }
 ]
