@@ -22,18 +22,19 @@
     "url": "https://christoph.miksche.org",
     "icon": "https://icons.duckduckgo.com/ip3/christoph.miksche.org.ico",
     "slug": "german-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
+    "time": 557,
     "timeDay": 622,
     "timeWeek": 523,
     "timeMonth": 573,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2025-07-22": 0,
       "2025-06-12": 23
     }
   },
