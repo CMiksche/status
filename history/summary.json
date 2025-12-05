@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 233,
-    "timeWeek": 230,
+    "timeDay": 221,
+    "timeWeek": 239,
     "timeMonth": 239,
     "timeYear": 265,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "97.31%",
     "uptimeYear": "99.77%",
     "time": 563,
-    "timeDay": 341,
-    "timeWeek": 449,
-    "timeMonth": 501,
-    "timeYear": 564,
+    "timeDay": 356,
+    "timeWeek": 455,
+    "timeMonth": 496,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2025-11-18": 145,
       "2025-11-07": 867,
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
-    "time": 468,
-    "timeDay": 311,
-    "timeWeek": 395,
-    "timeMonth": 421,
+    "time": 467,
+    "timeDay": 421,
+    "timeWeek": 404,
+    "timeMonth": 422,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2025-11-18": 106,
@@ -68,16 +68,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanboard",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.92%",
     "time": 1294,
-    "timeDay": 960,
-    "timeWeek": 1028,
-    "timeMonth": 1041,
-    "timeYear": 1395,
+    "timeDay": 1060,
+    "timeWeek": 1037,
+    "timeMonth": 1045,
+    "timeYear": 1396,
     "dailyMinutesDown": {
       "2025-11-18": 145,
       "2025-10-28": 36,
@@ -89,8 +89,7 @@
       "2025-04-04": 22,
       "2025-03-13": 22,
       "2025-02-13": 24,
-      "2025-02-12": 20,
-      "2024-12-05": 38
+      "2025-02-12": 20
     }
   },
   {
@@ -100,15 +99,15 @@
     "slug": "grocy",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "98.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.92%",
-    "time": 1618,
-    "timeDay": 12741,
-    "timeWeek": 4425,
-    "timeMonth": 2208,
-    "timeYear": 1669,
+    "time": 1619,
+    "timeDay": 1629,
+    "timeWeek": 4451,
+    "timeMonth": 2210,
+    "timeYear": 1670,
     "dailyMinutesDown": {
       "2025-12-03": 18,
       "2025-11-18": 121,
@@ -120,8 +119,7 @@
       "2025-03-13": 22,
       "2025-03-10": 40,
       "2025-03-07": 20,
-      "2025-02-13": 24,
-      "2024-12-05": 37
+      "2025-02-13": 24
     }
   }
 ]
