@@ -46,9 +46,9 @@
     "url": "https://blog.wronnay.net",
     "icon": "https://icons.duckduckgo.com/ip3/blog.wronnay.net.ico",
     "slug": "german-tech-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -58,6 +58,7 @@
     "timeMonth": 379,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2026-04-09": 0,
       "2025-11-18": 106,
       "2025-06-12": 23
     }
