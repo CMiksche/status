@@ -108,10 +108,10 @@
     "slug": "grocy",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "99.79%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "99.77%",
     "time": 1942,
     "timeDay": 20747,
     "timeWeek": 6689,
@@ -131,7 +131,7 @@
       "2026-04-29": 15,
       "2026-05-02": 126,
       "2026-05-04": 140,
-      "2026-05-25": 0
+      "2026-05-25": 97
     }
   }
 ]
