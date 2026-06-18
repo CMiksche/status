@@ -103,17 +103,17 @@
     "url": "$GROCY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.74%",
-    "time": 2280,
-    "timeDay": 30362,
-    "timeWeek": 11704,
-    "timeMonth": 7684,
-    "timeYear": 2463,
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "99.71%",
+    "time": 2322,
+    "timeDay": 27575,
+    "timeWeek": 12848,
+    "timeMonth": 8093,
+    "timeYear": 2514,
     "dailyMinutesDown": {
       "2025-08-11": 25,
       "2025-10-07": 20,
@@ -128,7 +128,7 @@
       "2026-05-02": 126,
       "2026-05-04": 140,
       "2026-05-25": 265,
-      "2026-06-18": 0
+      "2026-06-18": 190
     }
   }
 ]
