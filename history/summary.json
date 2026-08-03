@@ -65,17 +65,17 @@
     "url": "$KANBOARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanboard",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 1840,
-    "timeDay": 20688,
-    "timeWeek": 8507,
-    "timeMonth": 6667,
-    "timeYear": 2018,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.78%",
+    "time": 1908,
+    "timeDay": 27116,
+    "timeWeek": 12003,
+    "timeMonth": 7676,
+    "timeYear": 2114,
     "dailyMinutesDown": {
       "2025-10-27": 29,
       "2025-10-28": 36,
@@ -95,7 +95,7 @@
       "2026-05-05": 52,
       "2026-05-06": 91,
       "2026-06-09": 117,
-      "2026-08-03": 0
+      "2026-08-03": 57
     }
   },
   {
@@ -103,17 +103,17 @@
     "url": "$GROCY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grocy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.43%",
-    "uptimeMonth": "97.10%",
-    "uptimeYear": "99.46%",
-    "time": 3623,
-    "timeDay": 1482,
-    "timeWeek": 11064,
-    "timeMonth": 14803,
-    "timeYear": 4476,
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "99.45%",
+    "time": 3657,
+    "timeDay": 8107,
+    "timeWeek": 11856,
+    "timeMonth": 14918,
+    "timeYear": 4517,
     "dailyMinutesDown": {
       "2025-08-11": 25,
       "2025-10-07": 20,
@@ -138,7 +138,7 @@
       "2026-07-25": 328,
       "2026-07-28": 200,
       "2026-07-29": 59,
-      "2026-08-03": 0
+      "2026-08-03": 58
     }
   }
 ]
