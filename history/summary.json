@@ -65,17 +65,17 @@
     "url": "$KANBOARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "92.86%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.76%",
     "time": 2314,
-    "timeDay": 33978,
-    "timeWeek": 18936,
-    "timeMonth": 11624,
-    "timeYear": 2642,
+    "timeDay": 29885,
+    "timeWeek": 17672,
+    "timeMonth": 11364,
+    "timeYear": 2639,
     "dailyMinutesDown": {
       "2025-10-27": 29,
       "2025-10-28": 36,
@@ -97,7 +97,7 @@
       "2026-06-09": 117,
       "2026-08-03": 57,
       "2026-08-17": 17,
-      "2026-08-18": 86
+      "2026-08-18": 115
     }
   },
   {
