@@ -13,7 +13,7 @@
     "time": 254,
     "timeDay": 280,
     "timeWeek": 251,
-    "timeMonth": 216,
+    "timeMonth": 219,
     "timeYear": 244,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 529,
     "timeDay": 660,
     "timeWeek": 676,
-    "timeMonth": 538,
+    "timeMonth": 542,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2025-11-07": 867,
@@ -53,7 +53,7 @@
     "time": 441,
     "timeDay": 645,
     "timeWeek": 670,
-    "timeMonth": 486,
+    "timeMonth": 492,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2025-11-18": 106,
@@ -65,17 +65,17 @@
     "url": "$KANBOARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanboard",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.70%",
-    "time": 3319,
-    "timeDay": 20152,
-    "timeWeek": 21258,
-    "timeMonth": 16291,
-    "timeYear": 3939,
+    "time": 3320,
+    "timeDay": 13955,
+    "timeWeek": 20470,
+    "timeMonth": 16305,
+    "timeYear": 3933,
     "dailyMinutesDown": {
       "2025-10-27": 29,
       "2025-10-28": 36,
@@ -102,7 +102,7 @@
       "2026-08-20": 32,
       "2026-08-21": 192,
       "2026-08-22": 37,
-      "2026-08-25": 0
+      "2026-08-25": 19
     }
   },
   {
@@ -119,7 +119,7 @@
     "time": 5791,
     "timeDay": 14409,
     "timeWeek": 18954,
-    "timeMonth": 17808,
+    "timeMonth": 17770,
     "timeYear": 6940,
     "dailyMinutesDown": {
       "2025-10-07": 20,
