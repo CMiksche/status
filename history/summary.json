@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 254,
     "timeDay": 265,
-    "timeWeek": 231,
+    "timeWeek": 239,
     "timeMonth": 222,
     "timeYear": 243,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.78%",
     "time": 530,
     "timeDay": 561,
-    "timeWeek": 579,
+    "timeWeek": 566,
     "timeMonth": 557,
     "timeYear": 506,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "99.97%",
     "time": 443,
     "timeDay": 440,
-    "timeWeek": 534,
+    "timeWeek": 506,
     "timeMonth": 529,
     "timeYear": 418,
     "dailyMinutesDown": {
@@ -65,17 +65,17 @@
     "url": "$KANBOARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.68%",
-    "time": 3461,
-    "timeDay": 20492,
-    "timeWeek": 9053,
-    "timeMonth": 15984,
-    "timeYear": 4105,
+    "time": 3526,
+    "timeDay": 29819,
+    "timeWeek": 12799,
+    "timeMonth": 16364,
+    "timeYear": 4194,
     "dailyMinutesDown": {
       "2025-10-27": 29,
       "2025-10-28": 36,
@@ -104,7 +104,8 @@
       "2026-08-22": 37,
       "2026-08-25": 19,
       "2026-09-03": 44,
-      "2026-09-02": 72
+      "2026-09-02": 72,
+      "2026-09-04": 2
     }
   },
   {
@@ -120,9 +121,9 @@
     "uptimeYear": "99.19%",
     "time": 5862,
     "timeDay": 1928,
-    "timeWeek": 2180,
+    "timeWeek": 2119,
     "timeMonth": 17379,
-    "timeYear": 6993,
+    "timeYear": 7005,
     "dailyMinutesDown": {
       "2025-10-07": 20,
       "2025-11-18": 121,
