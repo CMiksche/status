@@ -1,7 +1,7 @@
 url: $GROCY
-status: down
-code: 522
-responseTime: 40171
-lastUpdated: 2026-09-20T10:10:55.023Z
+status: up
+code: 200
+responseTime: 1736
+lastUpdated: 2026-09-20T14:13:30.479Z
 startTime: 2022-07-03T19:12:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
